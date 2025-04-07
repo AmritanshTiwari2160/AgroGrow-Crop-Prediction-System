@@ -37,7 +37,7 @@ This project utilizes the **Crop Recommendation Dataset** from Kaggle. The datas
 - **Libraries**:
   - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
-## How It Works 🤖
+## How It Works
 
 1. **Data Input**: Users input soil and environmental parameters (N, P, K, temperature, humidity, pH, rainfall) via the web interface.
 2. **Model Prediction**: The input data is fed into trained machine learning model.
