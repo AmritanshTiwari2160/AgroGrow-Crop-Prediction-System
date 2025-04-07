@@ -1,6 +1,6 @@
 # AgroGrow-Crop Prediction System
   
-**<p align='center'>Visit the live website : <a href="https://agrogrow-crop-predictions-system.onrender.com">🌐 [AgroGrow - Crop Prediction]</a></p>**
+**<p align='center'>Visit the live website : <a href="https://agrogrow-crop-predictions-system.onrender.com"> [AgroGrow - Crop Prediction]</a></p>**
 
 AgroGrow is a machine learning-based system designed to assist farmers and agricultural enthusiasts in identifying the most suitable crop to grow based on soil and environmental conditions. By leveraging data-driven insights, AgroGrow empowers users to make informed decisions, improving productivity and sustainability.
 
