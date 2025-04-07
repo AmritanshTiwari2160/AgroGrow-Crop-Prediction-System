@@ -48,7 +48,7 @@ This project utilizes the **Crop Recommendation Dataset** from Kaggle. The datas
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/AmritanshTiwari2160/AgroGrow-Crop-Prediction-System.git
-   cd AgroGrow---Crop-Predictions-System
+   cd AgroGrow-Crop-Prediction-System
    ```
 2. **Install dependencies:**
 
